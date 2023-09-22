@@ -1,0 +1,30 @@
+.navbar-nav .nav-link{
+    color: wheat !important;
+}
+@media only screen and (max-width: 480px) {
+    .carousel , #carouselExampleCaptions {display:none;}
+}
+#loginspan{
+    display: flex;
+    margin: 25px;
+    margin-right: 45px;
+}
+#login{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.carousel-caption1 {
+    position: absolute;
+    right: 20%;
+    bottom: 6rem;
+    left: -30%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+    }
+    .card-body p{
+        font-size: 13px;
+       
+    }
